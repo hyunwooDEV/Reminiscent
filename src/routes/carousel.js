@@ -12,7 +12,6 @@ function carousel () {
           style={{ height:300 }}
         />
         <Carousel.Caption>
-          <h3>어릴적 내가 살던</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -23,7 +22,6 @@ function carousel () {
           style={{ height:300 }}
         />
         <Carousel.Caption>
-          <h3>옛 연인과</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -35,7 +33,6 @@ function carousel () {
         />
 
         <Carousel.Caption>
-          <h3>친구들</h3>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
